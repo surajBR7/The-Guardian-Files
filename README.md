@@ -75,15 +75,15 @@ The data was sourced from the Washington Post's database on police shootings. Af
 
 - **Texas Cluster Map**:
 
-  ![Texas Clusters](images/texas_clusters.png)
+  ![Texas Clusters](images/texascluster.jpg)
 
 - **Logistic Regression Confusion Matrix**:
 
-  ![Logistic Regression Matrix](images/logistic_regression_matrix.png)
+  ![Logistic Regression Matrix](images/Matrix.jpg)
 
 - **Cross-Validation Results**:
 
-  ![Cross-Validation](images/cross_validation.png)
+  ![Cross-Validation](images/cross.jpg)
 
 ## Code Snippets
 
