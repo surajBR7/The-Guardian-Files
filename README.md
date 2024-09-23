@@ -130,6 +130,6 @@ print(f"Probability of a Black female being shot and tasered: {prob_black_female
   - folium
 
 ## Conclusion
-    This project sheds light on the demographics and geographical trends of police shootings in the U.S., particularly focusing on gender and race. The machine learning model proved effective in predicting gender, and the clustering analysis revealed hotspots of police activity in Texas.
+   This project sheds light on the demographics and geographical trends of police shootings in the U.S., particularly focusing on gender and race. The machine learning model proved effective in predicting gender, and the clustering analysis revealed hotspots of police activity in Texas.
 
 
